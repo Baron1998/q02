@@ -41,7 +41,7 @@ int main()
         {
           for(int r=0; r < w.size();r++)
          {
-            cout<<"Row "<<i<<"Column "<<r<<"is  "<<wordGrid[i][r]<<endl;
+            cout<<"Row   "<< i <<"  Column   "<< r <<"  is  "<<wordGrid[i][r]<<endl;
            }
         cout<<endl;
         }
